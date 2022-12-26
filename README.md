@@ -27,6 +27,7 @@ discord  • TheDarkDame#3614
 ---
 <br>
 Hey there! I'm Aurelia. Big nerd, bookworm, FOSS enthusiast, aspiring game dev. I program basically only in Python for the time being, but I will probably gravitate to C# when I start using either Godot or Unity.
+<br>
 
 <table>
       <tr>
